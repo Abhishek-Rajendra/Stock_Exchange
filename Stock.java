@@ -219,7 +219,6 @@ public class Stock {
 					}
 				}
 				trade.add(done);	//Adding the trade into the array list
-				print_trade();
 			}
 		}
 			
