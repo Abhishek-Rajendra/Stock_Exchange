@@ -13,7 +13,7 @@ public class Main {
 			System.out.print("1: Add order\n2: View Trades\n3: View Sellers Order\n4: Veiw Buyers Order\n5: Exit\n"); 
 			Scanner input = new Scanner(System.in);
 			System.out.print("Enter the option: ");
-	    	int x = input.nextInt();
+	    		int x = input.nextInt();
 	    	
 	    	if(x==1)
 	    	{
